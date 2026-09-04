@@ -8,15 +8,16 @@
 ---
 
 ## Sobre mim
-Sou engenheiro de dados apaixonado por arquitetura em nuvem e automação de pipelines e DataViz.  
-Atualmente trabalho com **AWS**, **Terraform**, **SQL**, **Python** e **SAS**, criando soluções escaláveis e seguras.
+Sou engenheiro de dados em constante aprendizado sobre temas como arquitetura em nuvem, automação de pipelines e DataViz.  
+Tenho conhecimento em **AWS**, **Terraform**, **SQL**, **Python** e **SAS**, criando soluções escaláveis e seguras.
 
 ---
 
 ## Tecnologias que uso
 - AWS  
 - Python  
-- Terraform  
+- Terraform
+- PowerBI
 
 ---
 
