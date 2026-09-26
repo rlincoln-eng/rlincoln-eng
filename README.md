@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou Roger Lincoln
 
-**Engenheiro de Dados** | **AWS** | **Terraform** | **Phyton** | **SQL** | **PowerBI**
+**Engenheiro de Dados** | **AWS** | **Databricks** | **Phyton** | **SQL** | **PowerBI**
 
 ---
 
@@ -17,7 +17,7 @@ Tenho conhecimento em **AWS**, **Terraform**, **SQL**, **Python**, **SAS** e **S
 - AWS
 - SQL  
 - Python  
-- Terraform
+- Databricks
 - PowerBI
 
 ---
